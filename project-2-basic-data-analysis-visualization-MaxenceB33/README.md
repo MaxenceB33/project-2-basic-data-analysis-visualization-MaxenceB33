@@ -1,0 +1,3 @@
+# Analysis of the extent and cost of construction, demolition, and pool enclosure permits in Ottawa
+
+My analysis is about how much did the construction,demolition, and pool enclosure permits cost and hom much square kilometer is affeceted in each of Ottawa's municipalities. With this we can compare if there is a link between the territory affected, the location and the cost. We can also look more closely and see the type of project needing money.
